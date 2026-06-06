@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#006B3F"/>
+      <stop offset="100%" stop-color="#008751"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded square background -->
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <!-- Shopping bag -->
+  <path d="M16 24h32l-3 26a4 4 0 0 1-4 3.6H23a4 4 0 0 1-4-3.6L16 24Z" fill="none" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 24a8 8 0 0 1 16 0" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Ghana black star inside bag -->
+  <polygon points="32,30 34.4,36.2 41,36.8 36,41 37.6,47.6 32,44 26.4,47.6 28,41 23,36.8 29.6,36.2" fill="#FCD116"/>
+</svg>
